@@ -1,9 +1,8 @@
 ## Olá, me chamo Guilherme Oliveira! 
 ### Bem vindo ao meu perfil GitHub 👋
 
+![johnn-depp-hi](https://user-images.githubusercontent.com/105243951/169384614-59b6df6b-1aa8-4189-bf44-a064e4548791.gif)
 
-
-![sparrow-welcome](https://user-images.githubusercontent.com/105243951/168383421-eb53738c-ce1d-43d6-b343-1fd966ebd15c.gif)
 
 - 🌱 Atualmente estou aprendendo:
    
