@@ -11,8 +11,4 @@
 <a href="https://github.com/Gu1t/Guilherme-Oliveira/"> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1t&layout=compact&langs_count=7&theme=dark"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gu1t&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <div>
 <a href="https://www.instagram.com/gui_.o/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:oliveirariosilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="http://www.linkedin.com/in/jose-guilhermeti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
-![Snake animation](https://github.com/Gu1t/Gu1t/blob/output/github-contribution-grid-snake.svg)
-
-<div>
+<a href="http://www.linkedin.com/in/jose-guilhermeti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><div>
