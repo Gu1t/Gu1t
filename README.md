@@ -4,7 +4,7 @@
 ![johnn-depp-hi](https://user-images.githubusercontent.com/105243951/169384614-59b6df6b-1aa8-4189-bf44-a064e4548791.gif)
 
 
-- 🌱 Atualmente estou aprendendo:
+- 👨🏽‍💻 Tecnologias:
    
    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img <img <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gu1t&theme=codeSTACKr&show_icons=true)<div>
