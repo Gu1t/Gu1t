@@ -11,7 +11,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="50"/>
-      <img <img <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gu1t&theme=codeSTACKr&show_icons=true)<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1t&theme=codeSTACKr&layout=compact)<div>
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_.o/)
