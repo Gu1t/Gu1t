@@ -12,8 +12,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1t&theme=codeSTACKr&layout=compact)<div>
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_.o/)
 [![Gmail](https://img.shields.io/badge/Gmail-F08000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:oliveirariosilva@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guilhermeti/)
